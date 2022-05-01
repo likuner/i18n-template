@@ -1,7 +1,9 @@
 export default {
   name: 'ja',
-  message: {
+  i: {
     hello: 'こんにちは',
-    welcome: 'i18n-demoへようこそ!'
+    welcome: 'i18n-demoへようこそ!',
+    switchLang: 'あなたは日本語に言語を切り替えた!',
+    appTitle: 'i18nデモ',
   }
 }
